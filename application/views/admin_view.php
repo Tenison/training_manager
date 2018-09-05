@@ -1,0 +1,1 @@
+<h2 class="bg-success text-center" style="padding:20px; border:1px dotted #333333"> Welcome Admin Training Admin Application Interface</h2>
